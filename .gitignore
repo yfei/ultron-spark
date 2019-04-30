@@ -1,0 +1,8 @@
+/bin/
+/target/
+/lib/
+/.idea/
+/.settings/
+.classpath
+.project
+ultron-spark.iml
